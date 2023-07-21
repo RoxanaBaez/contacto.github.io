@@ -1,5 +1,5 @@
 .ContactoM{
-    background-image:url('../js/fondo.jpg');
+    background-image:url('./fondo.jpg');
     background-size: cover;
 }
 
