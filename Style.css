@@ -1,0 +1,83 @@
+.ContactoM{
+    background-image:url('../js/fondo.jpg');
+    background-size: cover;
+}
+
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-weight: bold;
+    /*background: rgba(227, 252, 252, 0.897);*/
+}
+
+ul li{
+    display: inline-block;
+    padding: 0px 20px;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+h1{
+    width: 450px;
+    height: 70px;
+    background: none;
+    margin-top: 70px;
+    padding: 5px 30px;
+    border-bottom: 2px solid #017bab;
+    color:black;
+    font-size: 20px;
+    text-align:center;
+}
+
+h2{
+    width: 450px;
+    height: 60px;
+    background: none;
+    margin-top: 20px;
+    padding: 5px 30px;
+    border-bottom: 2px solid #017bab;
+    color:black;
+    font-size: 20px;
+    text-align:center;
+}
+
+h3{
+    width: 450px;
+    height: 50px;
+    background: none;
+    margin-top: 20px;
+    padding: 5px 30px;
+    border-bottom: 2px solid #017bab;
+    color:black;
+    font-size: 20px;
+    text-align:center;
+}
+
+h4{
+    width: 450px;
+    height: 60px;
+    background: none;
+    margin-top: 20px;
+    padding: 5px 30px;
+    border-bottom: 2px solid #017bab;
+    color:black;
+    font-size: 20px;
+    text-align:center;
+}
+
+h5{
+    width: 450px;
+    height: 60px;
+    background: none;
+    margin-top: 20px;
+    padding: 5px 30px;
+    border-bottom: 2px solid #017bab;
+    color:black;
+    font-size: 20px;
+    text-align:center;
+}
